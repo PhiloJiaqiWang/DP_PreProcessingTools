@@ -1,0 +1,11 @@
+<premis:premis xmlns:premis="http://www.loc.gov/premis/v3">
+  <premis:object>
+    <premis:objectIdentifier>
+      <premis:objectIdentifierType>UUID</premis:objectIdentifierType>
+      <premis:objectIdentifierValue>123e4567-e89b-12d3-a456-426655440000</premis:objectIdentifierValue>
+    </premis:objectIdentifier>
+    <premis:objectCategory>file</premis:objectCategory>
+    <premis:objectType>text</premis:objectType>
+    <premis:objectTitle>Example Text File</premis:objectTitle>
+  </premis:object>
+</premis:premis>
